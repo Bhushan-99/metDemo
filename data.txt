@@ -1,0 +1,98 @@
+    1  git config --global user.name "50179_Bhushan"
+    2  git config --global user.email "bhushanpadir99@gmail.com"
+    3  git clone https://gitlab.com/precat-om21/aptitude.git
+    4  git clone https://gitlab.com/precat-om21/aptitude.git
+    5  cls
+    6  git clone https://gitlab.com/precat-om21/aptitude.git
+    7  git clone https://gitlab.com/precat-om21/aptitude.git
+    8  git clone https://gitlab.com/precat-om21/cprogrammig.git
+    9  git clone https://gitlab.com/precat-om21/cprogrammig.git
+   10  git clone https://gitlab.com/precat-om21/cprogrammig.git
+   11  git clone https://gitlab.com/precat-om21/objectorientedconcepts.git
+   12  git clone https://gitlab.com/precat-om21/objectorientedconcepts.git
+   13  git clone 
+   14  cls
+   15  clearf
+   16  clear
+   17  git clone 
+   18  clear
+   19  git clone https://gitlab.com/precat-om21/datastructure.git
+   20  git clone https://gitlab.com/precat-om21/operatingsystemconcepts.git
+   21  git clone user@LAPTOP-MVGDSP9E MINGW64 /d/cdac
+   22  $ git clone https://gitlab.com/precat-om21/operatingsystemconcepts.git
+   23  Cloning into 'operatingsystemconcepts'...
+   24  remote: Enumerating objects: 70, done.
+   25  remote: Counting objects: 100% (70/70), done.
+   26  remote: Compressing objects: 100% (68/68), done.
+   27  remote: Total 70 (delta 21), reused 0 (delta 0), pack-reused 0
+   28  Receiving objects: 100% (70/70), 29.47 MiB | 1.04 MiB/s, done.
+   29  Resolving deltas: 100% (21/21), done.
+   30  user@LAPTOP-MVGDSP9E MINGW64 /d/cdac
+   31  $ git clone
+   32  git clone https://gitlab.com/precat-om21/computerfundamentals_networking.git
+   33  git clone https://gitlab.com/precat-om21/computerfundamentals_networking.git
+   34  git clone https://gitlab.com/precat-om21/computerfundamentals_networking.git
+   35  git clone https://gitlab.com/precat-om21/computerfundamentals_networking.git
+   36  git clone https://gitlab.com/precat-om21/computerfundamentals_networking.git
+   37  git clone https://gitlab.com/precat-om21/computerfundamentals_networking.git
+   38  ls
+   39  cd usr/
+   40  ls
+   41  cd ..
+   42  cd /
+   43  cls
+   44  clear
+   45  ls
+   46  d/
+   47  cd d:
+   48  ls
+   49  cd Git/
+   50  cls
+   51  clear
+   52  ls
+   53  git --version
+   54  git init
+   55  cls
+   56  clear
+   57  cd E:
+   58  ls
+   59  cd CDAC/
+   60  ls
+   61  cd Git/
+   62  clear
+   63  ls
+   64  git init
+   65  exit
+   66  cd e:
+   67  ls
+   68  cd CDAC/
+   69  ls
+   70  cd Git/
+   71  ls
+   72  cls
+   73  clear
+   74  git config --global bhushanpadir99@gmail.com
+   75  git config --global user.email bhushanpadir99@gmail.com
+   76* 
+   77  git config --list
+   78  git status
+   79  git add Abstractclass.java
+   80  git add *
+   81  git status
+   82  git rm --cached *
+   83  git status
+   84  git add -A
+   85  git status
+   86  clear
+   87  git status
+   88  git rm --cached Abstractclass.java -f
+   89  git add *
+   90  git status
+   91  git commit
+   92  git status
+   93  git commit ls-files
+   94  git ls-files
+   95  git log
+   96  git remote add origin https://github.com/coderepositor/Bhushan-99
+   97  git log
+   98  history >data.txt
